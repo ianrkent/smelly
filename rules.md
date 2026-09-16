@@ -17,9 +17,13 @@ Each player is dealt, in this order:
 2. **3 cards face up** on top of the face-down cards
 3. **3 cards in hand**
 
+### Before Play Begins
+
+Once all cards are dealt, and before the first card is played, each player may **swap any of their face-up cards with cards from their hand**. This is a one-time opportunity per game. The general strategy is to place your best cards face-up, since those cards are visible to everyone and players can play towards them.
+
 ## Card Ranking
 
-Suits are ignored. Cards rank from lowest to highest:
+Suits are ignored. Cards rank from lowest to highest, with `4` being the lowest and `A` being the highest
 
 > 4 · 5 · 6 · 7 · 8 · 9 · J · Q · K · A
 
@@ -43,7 +47,9 @@ You may play **multiple cards of the same value** in a single turn (e.g. three J
 
 ### If You Cannot Play
 
-If you cannot meet or beat the top card, you **pick up the entire pile** into your hand. You then play the next card yourself, with a blank table.
+**Playing from your hand:** If you cannot meet or beat the top card, you pick up the entire pile into your hand. The table is now clear and it's your turn again — a good chance to get rid of your worst cards.
+
+**Playing from your face-up cards:** If you cannot play, you pick up the pile *and* take one of the unplayable face-up cards into your hand as well. This prevents a player from being permanently stuck with a bad face-up card they can never escape — since without this rule, the player before them can always play a card higher than the one bad card, leaving them stranded every time.
 
 ## Special Cards
 
@@ -67,6 +73,6 @@ This can be achieved across multiple turns: if the top of the pile already has m
 
 **Threes are invisible for this purpose.** If the top of the pile contains Q · Q · 3 · Q · 3 · Q, that counts as four Queens — the pile is removed.
 
-## Winning
+## Winning - or really, not losing
 
-The first player to play all their cards (hand, face-up, and face-down) wins. Keep playing until only one player remains — that person is the **Smelly Head**.
+Finishing the round means successfully playing all your cards (hand, face-up, and face-down). Keep playing until only one player remains — that person is the **Smelly Head**.
