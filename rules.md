@@ -43,7 +43,7 @@ You may play **multiple cards of the same value** in a single turn (e.g. three J
 
 ### If You Cannot Play
 
-If you cannot meet or beat the top card, you **pick up the entire pile** into your hand. The next player then starts fresh with an empty table.
+If you cannot meet or beat the top card, you **pick up the entire pile** into your hand. You then play the next card yourself, with a blank table.
 
 ## Special Cards
 
